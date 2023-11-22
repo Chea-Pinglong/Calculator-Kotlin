@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="button_0_text">0</string>
+    <string name="button_dot_text">.</string>
+    <string name="button_equal_text">=</string>
+    <string name="button_1_text">1</string>
+    <string name="button_2_text">2</string>
+    <string name="button_3_text">3</string>
+    <string name="button_4_text">4</string>
+    <string name="button_5_text">5</string>
+    <string name="button_6_text">6</string>
+    <string name="button_7_text">7</string>
+    <string name="button_8_text">8</string>
+    <string name="button_9_text">9</string>
+    <string name="button_plus_text">+</string>
+    <string name="button_minus_text">-</string>
+    <string name="button_multi_text">×</string>
+    <string name="button_AC_text">AC</string>
+    <string name="button_divide_text">÷</string>
+    <string name="button_percent_text">%</string>
+    <string name="button_delete_text">del</string>
+    <string name="par_Left_Text">(</string>
+    <string name="par_Right_Text">)</string>
+
+    <string name="squareText">x<sup><small>2</small></sup></string>
+    <string name="powerYText">x<sup><small>y</small></sup></string>
+    <string name="sqrtText">√</string> //alt + 251
+    <string name="rootNText"><sup><small>n</small></sup>√x</string>
+
+    <string name="SinText">sin</string>
+    <string name="CosText">cos</string>
+    <string name="TanText">tan</string>
+    <string name="CotText">cot</string>
+    <string name="comma">,</string>
+
+    <string name="ArcSinText">sin<sup><small>-1</small></sup></string>
+    <string name="ArcCosText">cos<sup><small>-1</small></sup></string>
+    <string name="ArcTanText">tan<sup><small>-1</small></sup></string>
+    <string name="ArcCotText">cot<sup><small>-1</small></sup></string>
+
+    <string name="eXText">e<sup><small>x</small></sup></string>
+    <string name="expText">e</string>
+    <string name="Log2Text">log<pre><small>2</small></pre></string>
+    <string name="naturalLogText">ln</string>
+
+    <string name="Modulus">#</string>
+    <string name="piText">π</string> //alt + 227
+    <string name="FactText">x!</string>
+
+    <string name="math_text">Type here</string>
+</resources>
