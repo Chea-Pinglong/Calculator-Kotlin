@@ -128,7 +128,7 @@
             android:layout_width="100dp"
             android:layout_height="75dp"
             android:layout_marginStart="4dp"
-            android:backgroundTint="@color/grey"
+            android:backgroundTint="@color/black"
             android:onClick="sevenBTN"
             android:text="@string/button_7_text"
             android:textSize="20sp"
